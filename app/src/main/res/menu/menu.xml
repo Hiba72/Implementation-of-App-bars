@@ -3,11 +3,20 @@
 xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/action_favorite"
-        android:title="@string/action_favourite"
+        android:id="@+id/action_favorite1"
+        android:title="@string/action_favorite1"
         android:icon="@drawable/ic_baseline_favorite_24"
         app:showAsAction="ifRoom"
         ></item>
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/action_TASKS"
+        android:title="@string/action_TASKS"
+        app:showAsAction="ifRoom"></item>
 
 
 </menu>
