@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppBars</string>
+    <string name="action_favourite">action_favourite</string>
 </resources>
